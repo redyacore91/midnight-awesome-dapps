@@ -1,5 +1,5 @@
 # Awesome Midnight dApps [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-
+This repository is a participant in the Midnight Network ecosystem.
 > A curated list of awesome Midnight dApps, tools, and resources
 
 ## Contents
